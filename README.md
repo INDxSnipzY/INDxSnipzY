@@ -1,42 +1,54 @@
 
-# Hey, I'm Ajay Sawle 👋
+# Hi, I'm Ajay Sawle 👋
 
-### Aspiring Full-Stack Developer | React • Next.js • TypeScript
+### Aspiring Full-Stack Developer | React · Next.js · TypeScript
 
-I'm a first-year student at **Dyal Singh College, University of Delhi**, passionate about building modern, responsive, and user-friendly web applications.
+I’m a first-year student at Dyal Singh College, University of Delhi, passionate about building modern web applications and learning through real-world projects.
 
-- 🌱 Currently learning and improving my full-stack development skills
-- 💻 Working on **Medicare**, a healthcare information platform
-- ⚡ Interested in web development, UI/UX, and problem-solving
-- 🎯 Focused on building real-world projects and growing as a developer
+- 🔭 Currently working on **Medicare**
+- 🌱 Exploring full-stack development and modern web technologies
+- 💡 Interested in clean UI, problem-solving, and building useful products
+- 🎮 Former professional BGMI player
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,redis,git,github,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,redis,git,github,vscode" alt="Tech stack" />
 </p>
 
+## 🚀 Featured Project
+
+### 🏥 Medicare — Healthcare Information Platform
+
+A project in development focused on healthcare information, disease and symptom knowledge, and finding nearby doctors.
+
+<!-- Replace YOUR-MEDICARE-REPO with your repository name -->
+[View Medicare](https://github.com/INDxSnipzY/YOUR-MEDICARE-REPO)
+
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### 🏥 Medicare
-A healthcare information platform in development, focused on disease information, symptoms, medical knowledge, and nearby doctors.
-
-**Status:** In development
-
-<!-- Add your project repository link here -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=INDxSnipzY&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDxSnipzY&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- GitHub: [@INDxSnipzY](https://github.com/INDxSnipzY)
-- LinkedIn: [@ajay-sawle](https://www.linkedin.com/in/ajay-sawle/)
-- Portfolio: N/A
+<p>
+  <a href="https://github.com/INDxSnipzY"><img src="https://img.shields.io/badge/GitHub-INDxSnipzY-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ajay-sawle/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ajay%20Sawle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Add your LinkedIn and portfolio links here -->
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center"><i>Building, learning, and improving — one project at a time.</i></p>
+  
