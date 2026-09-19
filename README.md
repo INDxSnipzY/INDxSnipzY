@@ -5,10 +5,10 @@
 
 I’m a first-year student at Dyal Singh College, University of Delhi, passionate about building modern web applications and learning through real-world projects.
 
-- 🔭 Currently working on **Medicare**
-- 🌱 Exploring full-stack development and modern web technologies
-- 💡 Interested in clean UI, problem-solving, and building useful products
-- 🎮 Former professional BGMI player
+- Currently working on **Medicare**
+- Exploring full-stack development and modern web technologies
+- Interested in clean UI, problem-solving, and building useful products
+- Former professional BGMI player
 
 ---
 
