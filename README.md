@@ -32,8 +32,8 @@ A project in development focused on healthcare information, disease and symptom 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=INDxSnipzY&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDxSnipzY&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://medicare-gamma-roan.vercel.app/api?username=INDxSnipzY&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://medicare-gamma-roan.vercel.app/api/top-langs/?username=INDxSnipzY&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
