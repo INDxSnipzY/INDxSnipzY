@@ -25,7 +25,7 @@ I’m a first-year student at Dyal Singh College, University of Delhi, passionat
 A project in development focused on healthcare information, disease and symptom knowledge, and finding nearby doctors.
 
 <!-- Replace YOUR-MEDICARE-REPO with your repository name -->
-[View Medicare](https://github.com/INDxSnipzY/YOUR-MEDICARE-REPO)
+[View Medicare](https://github.com/INDxSnipzY/Medicare)
 
 ---
 
